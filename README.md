@@ -32,6 +32,7 @@ Recent advancements in ML algorithms, such as gradient boosting machines and dee
 
 **IV.	METHODOLOGY**
 Here is the flowchart of the model;
+
 ![image](https://github.com/user-attachments/assets/2999af95-cc20-4358-ab09-c04dd47dca78) 
 
 **V.	DATA EXPLANATION**
